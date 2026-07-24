@@ -1,7 +1,5 @@
 Hey there, I’m **Shravya Yermal** — welcome to my GitHub!
 
-As a Data Professional, I believe in using analytics and technology to create meaningful, measurable business impact. I'm driven to solve complex challenges across industries and find ways to deliver solutions that matter.
-
 "The true measure of success is not wealth or fame, but the impact you have on others."
 – Sudha Murthy
 
